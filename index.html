@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio Website - Andrei Iliescu</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="https://kit.fontawesome.com/5df02ee570.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <!---------HOME SECTION------------>
+    <div id="header">
+        <img src="/assets/images/home-no-background.png" alt="Header Image" class="header-img">
+        <div class="container">
+            <nav>
+                <img src="/assets/images/logo-no-background.png" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="#header">Acasă</a></li>
+                    <li><a href="#about">Despre mine</a></li>
+                    <!--<li><a href="#services">Serviciile mele</a></li>-->
+                    <li><a href="#portfolio">Portofoliu</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <i class="fa-solid fa-circle-xmark" onclick="closemenu()"></i>
+                </ul>
+                <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+            </nav>
+            <div class="header-text">
+                <p>Full-Stack Developer</p>
+                <h1>Salut, eu sunt<br><span>Andrei Iliescu</span></h1>
+            </div>
+        </div>
+    </div>
+
+    <!---------ABOUT ME SECTION------------>
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="/assets/images/about-1a1a1a-background-Photoroom.jpg">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title">Să facem cunoștință</h1>
+                    <p>
+                        Salutare din nou! Eu sunt Andrei, un fost profesionist în domeniul administrativ și al
+                        turismului, reconvertit cu pasiune către programare.
+                        După aproape cinci ani de experiență într-o firmă de contabilitate și studii de licență și
+                        master în Administrarea Afacerilor, am ales să urmez
+                        o direcție în care logica, creativitatea și construcția digitală sunt în prim-plan.<br><br>
+
+                        Astăzi mă specializez în dezvoltare software, cu focus pe Python, JavaScript, HTML5 și CSS3, în
+                        cadrul unor programe intense de formare
+                        (cursuri Udemy cu instructorul Angela Yu - App Brewery, Software Development Academy România).
+                        Abilitățile mele includ dezvoltare web,
+                        automatizări, controlul versiunilor cu Git, precum și lucru structurat cu date.<br><br>
+
+                        Îmi place să construiesc soluții funcționale, clare și utile. Mă motivează ideea că fiecare
+                        linie de cod poate rezolva o problemă reală.
+                        Caut echilibrul între eficiență tehnică și experiență de utilizare.<br><br>
+
+                        Acest portofoliu reflectă nu doar ce știu, ci și cine sunt: organizat, disciplinat, curios și
+                        dedicat unui proces de învățare continuă și
+                        adaptare. Tranziția către IT nu e o întâmplare, ci o alegere conștientă, susținută de muncă și
+                        determinare.
+                    </p>
+                    <div class="tab-titles">
+                        <p class="tab-links active-link" onclick="opentab('skills')">Competențe</p>
+                        <p class="tab-links" onclick="opentab('experience')">Experiență profesională</p>
+                        <p class="tab-links" onclick="opentab('education')">Educație și studii</p>
+                    </div>
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>Python</span><br>Dezvoltare software | Testare software | Analiză baze de date |
+                                Dezvoltare tehnologii back-end.</li>
+                            <li><span>HTML5</span><br>Structurare conținut web.</li>
+                            <li><span>CSS3</span><br>Design pentru interfețe web.</li>
+                            <li><span>JavaScript</span><br>Dezvoltare de aplicații și site-uri web.</li>
+                            <li><span>GIT</span><br>Controlul versiunilor prin intermediul platformelor GitHub și
+                                GitLab.</li>
+                            <!--<li><span>Django</span><br>Dezvoltare rapidă și eficientă a aplicațiilor web în Python.</li>
+                            <li><span>Flask</span><br>Dezvoltare de aplicații web într-un mod simplu folosind Python
+                            </li>
+                            <li><span>React</span><br>Dezvoltare de UI dinamic și interactiv.</li>
+                            <li><span>Node.js</span><br>Dezvoltare și creearea de servere pentru aplicațiile web.</li>
+                            <li><span>Express.js</span><br>Dezvoltare de cadru web (framework) ușor și flexibil pentru
+                                aplicații Node.js.</li>
+                            <li><span>SQL / SQLite</span><br>Gestionarea bazelor de date relaționale.</li>-->
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="experience">
+                        <ul>
+                            <li><span>[ 09/2020 - 04/2025 ]</span><br>Agent Servicii Clienți - Condec Consulting SRL
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>[ 2025 - În curs ]</span><br>Python Developer from Scratch - Software Development
+                                Academy România</li>
+                            <li><span>[ 2025 - În curs ]</span><br>The Complete Full-Stack Web Development Bootcamp -
+                                Udemy, Instructor: Dr. Angela Yu (London App Brewery)</li>
+                            <li><span>[ 2025 - În curs ]</span><br>100 Days of Code: The Complete Python Pro Bootcamp -
+                                Udemy, Instructor: Dr. Angela Yu (London App Brewery)</li>
+                            <li><span>[ 2022 - 2024 ]</span><br>Administrarea Afacerilor în Turism - Academia de Studii
+                                Economice din București</li>
+                            <li><span>[ 2019 - 2022 ]</span><br>Administrarea Afacerilor în Comerț, Turism, Servicii,
+                                Merceologie și Managementul Calității - Academia
+                                de Studii Economice din București</li>
+                            <li><span>[ 2015 - 2019 ]</span><br>Tehnician în Activități de Comerț - Colegiul Economic
+                                „Hermes” București</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!---------SERVICES SECTION------------>
+    <!--<div id="services">
+    <div class="container">
+        <h1 class="sub-title">Serviciile mele</h1>
+        <div class="services-list">
+            <div>
+                <i class="fa-brands fa-python"></i>
+                <h2>Dezvoltare Software</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <a href="#">Află mai multe</a>
+            </div>
+            <div>
+                <i class="fa-solid fa-gears"></i>
+                <h2>Testare Software</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <a href="#">Află mai multe</a>
+            </div>
+            <div>
+                <i class="fa-solid fa-code"></i>
+                <h2>Dezvoltare Web</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <a href="#">Află mai multe</a>
+            </div>
+        </div>
+    </div>
+</div>-->
+
+    <!---------PORTFOLIO SECTION------------>
+    <div id="portfolio">
+        <div class="container">
+            <h1 class="sub-title">Proiectele mele</h1>
+            <div class="project-list">
+                <div class="project">
+                    <img src="/assets/images/project-1.png">
+                    <div class="layer">
+                        <h3>AI OBJECT RECOGNITION</h3>
+                        <p>Acesta este un program ușor de detectare a obiectelor care folosește un model YOLOv5
+                            pre-antrenat prin intermediul pachetului oficial Ultralytics. Sistemul deschide camera web
+                            și etichetează obiectele detectate.</p>
+                        <a href="https://github.com/xAndreiix/AI_Object_Recognition"><i
+                                class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    </div>
+                </div>
+                <div class="project">
+                    <img src="/assets/images/project-2.png">
+                    <div class="layer">
+                        <h3>QR CODE GENERATOR</h3>
+                        <p>Acest proiect Python permite generarea coduri QR atât în format SVG, cât și PNG,
+                            dintr-un șir de caractere personalizat sau o adresă URL. Folosește bibliotecile pyqrcode și
+                            pypng pentru a crea coduri QR de înaltă calitate, potrivite pentru site-uri web, aplicații
+                            sau materiale tipărite.</p>
+                        <a href="https://github.com/xAndreiix/QR_Code_Generator"><i
+                                class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    </div>
+                </div>
+                <div class="project">
+                    <img src="/assets/images/project-3.png">
+                    <div class="layer">
+                        <h3>YOUTUBE DOWNLOADER</h3>
+                        <p>Un tool Python simplu și eficient care permite utilizatorilor să descarce videoclipuri
+                            direct de pe YouTube folosind biblioteca yt_dlp. Videoclipul este salvat la cea mai înaltă
+                            calitate disponibilă direct pe desktopul utilizatorului.</p>
+                        <a href="https://github.com/xAndreiix/YouTube_Downloader"><i
+                                class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    </div>
+                </div>
+            </div>
+            <a href="/pages/project_showcase.html" class="btn">Vezi mai multe</a>
+        </div>
+    </div>
+
+    <!---------CONTACT ME SECTION------------>
+    <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-title">Contactează-mă</h1>
+                    <p><i class="fa-solid fa-envelope"></i> andrey_iliescu@yahoo.com</p>
+                    <p><i class="fa-solid fa-envelope"></i> andrei.iliescu13102000@gmail.com</p>
+                    <p><i class="fa-solid fa-phone"></i> (+40) 764 903 295</p>
+                    <div class="social-icons">
+                        <a href="https://www.linkedin.com/in/andrei-iliescu-aa7910214/"><i
+                                class="fa-brands fa-linkedin"></i></a>
+                        <a href="https://github.com/xAndreiix"><i class="fa-brands fa-github"></i></a>
+                    </div>
+                    <a href="/assets/ATS_CV_ANDREI ILIESCU_RO.pdf" download class="btn btn2">Descarcă CV <i
+                            class="fa-solid fa-download"></i></a>
+                </div>
+                <div class="contact-right">
+                    <form name="submit-to-google-sheet">
+                        <input type="text" name="Name" placeholder="Introdu numele tău aici" required>
+                        <input type="email" name="Email" placeholder="Introdu adresa ta de e-mail aici" required>
+                        <textarea name="Message" row="6" placeholder="Introdu mesajul tău aici"></textarea>
+                        <button type="submit" class="btn btn2"> Trimite mesajul</button>
+                    </form>
+                    <span id="msg"></span>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>© 2025 Andrei Iliescu. Toate drepturile rezervate.</p>
+        </div>
+    </div>
+
+    <script>
+
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+
+        function opentab(tabname) {
+            for (tablink of tablinks) {
+                tablink.classList.remove("active-link");
+            }
+            for (tabcontent of tabcontents) {
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab")
+        }
+
+    </script>
+
+    <script>
+
+        var sidemenu = document.getElementById("sidemenu");
+
+        function openmenu() {
+            sidemenu.style.right = "0";
+        }
+        function closemenu() {
+            sidemenu.style.right = "-200px";
+        }
+
+    </script>
+    <script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbxQUBCNi1xrFeLepqx8pP_TOvPABOPgVJZXjCNIsCmzsoY0dwectEa06FMkOMMujt66/exec'
+        const form = document.forms['submit-to-google-sheet']
+        const msg = document.getElementById("msg")
+
+        form.addEventListener('submit', e => {
+            e.preventDefault()
+            fetch(scriptURL, { method: 'POST', body: new FormData(form) })
+                .then(response => {
+                    msg.innerHTML = "Mesajul a fost trimis cu succes!"
+                    setTimeout(function () {
+                        msg.innerHTML = ""
+                    }, 5000)
+                    form.reset()
+                })
+                .catch(error => console.error('Error!', error.message))
+        })
+    </script>
+
+</body>
+
+</html>
