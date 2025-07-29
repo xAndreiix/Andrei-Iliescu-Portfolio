@@ -12,7 +12,7 @@ Bine ai venit în repository-ul oficial al website-ului meu personal! Acest proi
 - ├── project_showcase.html             # Pagină secundară care prezintă mai multe proiecte
 - ├── style.css                         # Stilizarea și designul vizual
 - ├── assets/
-- │   ├── ATS_CV_ANDREI ILIESCU_RO.pdf  # CV personal în format PDF
+- ├── ATS_CV_ANDREI ILIESCU_RO.pdf  # CV personal în format PDF
 - │   └── images/                       # Logo, poze personale și alte elemente grafice
 - ├── .gitignore                        # Fișiere excluse din versionare
 - ├── LICENSE                           # Filă pentru licențierea MIT
