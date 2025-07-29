@@ -6,19 +6,17 @@ Bine ai venit în repository-ul oficial al website-ului meu personal! Acest proi
 
 ## 📂 Structura Proiectului
 
-📁 root/
-│
-├── index.html                        # Pagina principală a website-ului
-├── pages/
-│   └── project_showcase.html         # Pagină secundară care prezintă mai multe proiecte
-├── css/                              
-│   └── style.css                     # Stilizarea și designul vizual
-├── assets/
-│   ├── ATS_CV_ANDREI ILIESCU_RO.pdf  # CV personal în format PDF
-│   └── images/                       # Logo, poze personale și alte elemente grafice
-├── .gitignore                        # Fișiere excluse din versionare
-├── LICENSE                           # Filă pentru licențierea MIT
-└── README.md                         # Documentația proiectului
+- 📁 root/
+- │
+- ├── index.html                        # Pagina principală a website-ului
+- ├── project_showcase.html             # Pagină secundară care prezintă mai multe proiecte
+- ├── style.css                         # Stilizarea și designul vizual
+- ├── assets/
+- │   ├── ATS_CV_ANDREI ILIESCU_RO.pdf  # CV personal în format PDF
+- │   └── images/                       # Logo, poze personale și alte elemente grafice
+- ├── .gitignore                        # Fișiere excluse din versionare
+- ├── LICENSE                           # Filă pentru licențierea MIT
+- └── README.md                         # Documentația proiectului
 
 ---
 
@@ -82,4 +80,4 @@ Fișierul `.gitignore` este configurat să excludă:
 
 1. Clonează repository-ul:
    ```bash
-   git clone https://github.com/xAndreiix/---X---X---X---.git
+   git clone https://github.com/xAndreiix/Andrei-Iliescu-Portfolio.git
