@@ -4,7 +4,7 @@ Bine ai venit în repository-ul oficial al website-ului meu personal! Acest proi
 
 ---
 
-# 💻 Live preview
+## 💻 Live preview
 - [⛓️‍💥 Portfolio](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
 
 ---
