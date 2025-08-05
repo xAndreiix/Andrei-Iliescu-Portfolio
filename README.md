@@ -4,6 +4,11 @@ Bine ai venit în repository-ul oficial al website-ului meu personal! Acest proi
 
 ---
 
+# 💻 Live preview
+- [⛓️‍💥 Portfolio](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
+
+---
+
 ## 📂 Structura Proiectului
 
 - 📁 root/
@@ -72,7 +77,7 @@ Fișierul `.gitignore` este configurat să excludă:
 
 ## 📈 Proiecte Prezentate
 
-> ⚠️ Momentan, acest site nu include o secțiune de proiecte. Dacă alegi să o adaugi în viitor, poți extinde acest README cu o listă de proiecte personale (ex: Snake Game, YouTube Downloader etc.).
+-------------------------
 
 ---
 
