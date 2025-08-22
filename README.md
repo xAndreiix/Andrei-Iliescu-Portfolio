@@ -9,6 +9,34 @@ Bine ai venit în repository-ul oficial al website-ului meu personal! Acest proi
 - [⛓️‍💥 Portfolio](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
 
 ---
+## 📷 Screenshots
+
+<p align="center">
+   <img src="screenshots/hero-section.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/about-me-section.png" width="30%">
+  <img src="screenshots/professional-experience.png" width="30%">
+   <img src="screenshots/studies.png" width="30%">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/my-projects.png" width="45%">
+  <img src="screenshots/more-of-my-projects.png" width="45%">
+</p>
+
+<br>
+
+<p align="center">
+   <img src="screenshots/contact-me.png" width="600">
+</p>
+
+---
 
 ## 📂 Structura Proiectului
 
