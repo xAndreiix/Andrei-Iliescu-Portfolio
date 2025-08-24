@@ -4,7 +4,7 @@
 
 ## 📋 Cuprins
 - 🏷️ [Descrierea Proiectului](#descrierea-proiectului)
-- 💻 [Live Demo](#live-demo)
+- 💻 [Demo Live](#demo-live)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Funcționalități](#funcționalități)
 - 🛠️ [Tehnologii](#tehnologii)
@@ -30,7 +30,7 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
 
 ---
 
-## Live Demo
+## Demo Live
 [⛓️‍💥 Portofoliu](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
 
 ---
