@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Cuprins
-- 🏷️ [Introducere](#introducere)
+- 🏷️ [Descrierea Proiectului](#descrierea-proiectului)
 - 💻 [Live Demo](#live-demo)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Funcționalități](#funcționalități)
@@ -17,7 +17,7 @@
 
 ---
 
-## Introducere
+## Descrierea Proiectului
 Bine ai venit în repository-ul oficial al website-ului meu personal! Acest proiect reprezintă o pagină statică de prezentare, construită pentru a evidenția experiența, competențele și proiectele mele din domeniul IT.
 
 Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau biblioteci JavaScript. Este o soluție minimalistă și responsivă pentru a prezenta:
