@@ -31,7 +31,7 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
 ---
 
 ## Live Demo
-[⛓️‍💥 Portfolio](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
+[⛓️‍💥 Portofoliu](https://xandreiix.github.io/Andrei-Iliescu-Portfolio/)
 
 ---
 ## Screenshots
