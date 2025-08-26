@@ -36,28 +36,13 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
 ---
 ## Screenshots
 <p align="center">
-   <img src="screenshots/hero-section.png" width="600">
+   <img src="screenshots/website-preview.png" width="600">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="screenshots/about-me-section.png" width="30%">
-  <img src="screenshots/professional-experience.png" width="30%">
-   <img src="screenshots/studies.png" width="30%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/my-projects.png" width="45%">
-  <img src="screenshots/more-of-my-projects.png" width="45%">
-</p>
-
-<br>
-
-<p align="center">
-   <img src="screenshots/contact-me.png" width="600">
+  <img src="screenshots/projects-preview.png" width="600">
 </p>
 
 ---
@@ -111,13 +96,8 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
 - ├── project-21.png
 - ├── project-22.jpg
 - ├── screenshots/
-- │   └── hero-section.png
-- │   └── aboute-me-section.png
-- │   └── professional-experience.png
-- │   └── studies.png
-- │   └── my-projects.png
-- │   └── more-of-my-projects.png
-- │   └── contact-me.png
+- │   └── website-preview.png
+- │   └── projects-preview.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md
