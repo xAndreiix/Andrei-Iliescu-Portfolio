@@ -86,6 +86,7 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
 - ├── about-1a1a1a-background-Photoroom.jpg
 - ├── home-no-background.png
 - ├── logo-no-background.png
+- ├── shortcut-icon.jpeg
 - ├── project-comin-soon.jpg
 - ├── project-1.png
 - ├── project-2.png
