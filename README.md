@@ -108,6 +108,8 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
 - ├── project-18.png
 - ├── project-19.png
 - ├── project-20.png
+- ├── project-21.png
+- ├── project-22.jpg
 - ├── screenshots/
 - │   └── hero-section.png
 - │   └── aboute-me-section.png
