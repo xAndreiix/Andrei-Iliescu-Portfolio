@@ -39,6 +39,13 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
    <img src="screenshots/portfolio-mockup.png" width="600">
 </p>
 
+<br>
+
+<p align="center">
+   <img src="screenshots/webpage-portfolio-mockup.png" width="45%">
+   <img src="screenshots/webpage-more-projects-mockup.png" width="45%">
+</p>
+
 ---
 
 ## Funcționalități
@@ -91,6 +98,8 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
 - ├── project-22.jpg
 - ├── screenshots/
 - │   └── portfolio-mockup.png
+- │   └── webpage-portfolio-mockup.png
+- │   └── webpage-more-projects-mockup.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md
