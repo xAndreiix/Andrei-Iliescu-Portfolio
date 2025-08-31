@@ -36,13 +36,7 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
 ---
 ## Screenshots
 <p align="center">
-   <img src="screenshots/website-preview.png" width="600">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/projects-preview.png" width="600">
+   <img src="screenshots/portfolio-mockup.png" width="600">
 </p>
 
 ---
