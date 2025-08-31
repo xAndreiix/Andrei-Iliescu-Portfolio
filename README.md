@@ -96,8 +96,7 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
 - ├── project-21.png
 - ├── project-22.jpg
 - ├── screenshots/
-- │   └── website-preview.png
-- │   └── projects-preview.png
+- │   └── portfolio-mockup.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md
