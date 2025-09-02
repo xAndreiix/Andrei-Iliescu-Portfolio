@@ -106,7 +106,7 @@ Acest website este realizat exclusiv în HTML și CSS, fără framework-uri sau 
 <!-- ## Requirements -->
 <!-- ## Usage -->
 <!-- ## Configuration -->
-<!-- ## Runing tests -->
+<!-- ## Running tests -->
 <!-- ## Deployment -->
 <!-- ## Road Map -->
 <!-- ## FAQ -->
